@@ -1,4 +1,6 @@
-## Hi there 👋
+<h1> Hi there 👋 </h1>
+
+Currently working on a personal project <a href="https://github.com/graceoreilly/breathing_project"><img src="" width="15%" />
 
 <!--
 **graceoreilly/graceoreilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

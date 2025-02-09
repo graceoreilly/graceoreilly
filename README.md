@@ -1,17 +1,17 @@
 <h1> Hi there 👋 </h1>
 
-<strong>🧘‍♀️ Currently working on a personal project:</strong> <a href="https://github.com/graceoreilly/breathing_project">Breathing and wellness project</a>
+<h2><strong>🧘‍♀️ Currently working on a personal project:</strong> <a href="https://github.com/graceoreilly/breathing_project">Breathing and wellness project</a></h2>h2>
 <p>So far I have built an API with CRUD operations, developed a frontend using React, and styled it with CSS. Integrated an external API using a fetch request.</p>
 
- <strong>💻 Completing weekly hackathons as part of the School of Code Bootcamp:</strong>
+ <h2><strong>💻 Completing weekly hackathons as part of the School of Code Bootcamp:</strong></h2>
 
-- <a href="https://github.com/SchoolOfCode/week-8-hackathon-i-am-immutable">Week 8</a><p> Built a job application tracker using fetch to integrate an API and React to navigate between pages</p>
-- <a href="https://github.com/SchoolOfCode/week-7-hackathon-room-9-dgt">Week 7</a><p> Used React fundamentals to build a flashcards app</p>
-- <a href="https://github.com/SchoolOfCode/week-6-hackathon-graceoreilly">Week 6</a><p> Used Test Driven Development and Vitest to create a coding challenge</p>
-- <a href="https://github.com/SchoolOfCode/week-5-hackathon-sgs_room_10">Week 5</a><p> Used PostgreSQL to connect to an external database by building an API</p>
-- <a href="https://github.com/SchoolOfCode/week-4-rest-api-hackathon-bc18-room-10">Week 4</a><p> Built a REST API using CRUD requests</p>
-- <a href="https://github.com/SchoolOfCode/week-3-hackathon-css-room-6">Week 3</a><p> Used fetch to integrate an API and generate random pictures of cats</p>
-- <a href="https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-team9">Week 2</a><p> Rock, Paper, Scissors game using Javascript fundamentals</p>
+<a href="https://github.com/SchoolOfCode/week-8-hackathon-i-am-immutable">Week 8</a><span> - Built a job application tracker using fetch to integrate an API and React to navigate between pages</span><br>
+<a href="https://github.com/SchoolOfCode/week-7-hackathon-room-9-dgt">Week 7</a><span> - Used React fundamentals to build a flashcards app</span><br>
+<a href="https://github.com/SchoolOfCode/week-6-hackathon-graceoreilly">Week 6</a><span> - Used Test Driven Development and Vitest to create a coding challenge</span><br>
+<a href="https://github.com/SchoolOfCode/week-5-hackathon-sgs_room_10">Week 5</a><span> - Used PostgreSQL to connect to an external database by building an API</span><br>
+<a href="https://github.com/SchoolOfCode/week-4-rest-api-hackathon-bc18-room-10">Week 4</a><span> - Built a REST API using CRUD requests</span><br>
+<a href="https://github.com/SchoolOfCode/week-3-hackathon-css-room-6">Week 3</a><span> Used fetch to integrate an API and generate random pictures of cats</span><br>
+<a href="https://github.com/SchoolOfCode/week-2-hackathon-rock-paper-scissors-bc18-team9">Week 2</a><span> Rock, Paper, Scissors game using Javascript fundamentals</span><br>
 
 
 

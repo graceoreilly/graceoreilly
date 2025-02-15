@@ -2,6 +2,7 @@
 
 <h2><strong>🧘‍♀️ Currently working on a personal project:</strong> <a href="https://github.com/graceoreilly/breathing_project">Breathing and wellness project</a></h2>
 <p>So far I have built an API with CRUD operations, developed a frontend using React, and styling with CSS. Also integrated an external API using a fetch request.</p>
+<h3>Mini-project using React and Typescript to create a Weather App: <a href="https://github.com/graceoreilly/weather-app-typescript">Weather App</a></h3>
 
  <h2><strong>💻 Completing weekly hackathons as part of the School of Code Bootcamp:</strong></h2>
 

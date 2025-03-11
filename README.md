@@ -4,8 +4,12 @@
 <p>So far I have built an API with CRUD operations, developed a frontend using React, and styling with CSS. Also integrated an external API using a fetch request.</p>
 <h3>Mini-project using React and Typescript to create a Weather App: <a href="https://github.com/graceoreilly/weather-app-typescript">Weather App</a></h3>
 
- <h2><strong>💻 Completing weekly hackathons as part of the School of Code Bootcamp:</strong></h2>
+ <h2><strong>💻 Hackathons completed with the School of Code:</strong></h2>
 
+
+<a href="https://github.com/Kinukeo/final-project-chris-angels-1">Final Project</a><span> -A memory aid app to help individuals store cherished memories </span><br>
+<a href="https://github.com/graceoreilly/week-12-hackathon-chris-angels-1">Week 12</a><span> -Created a chatbot using RAG and powered by Pinecone to provide contextually relevant responses in a chatbot </span><br>
+<a href="https://github.com/graceoreilly/blog-page">Week 11</a><span> -A blog page about typescript, created in typescript and React. </span><br>
 <a href="https://github.com/SchoolOfCode/week-10-hackathon-rhythm-coders">Week 10</a><span> - Adopted a DevOps mindset to create a Jukebox app, implemented tools including GitHub actions, Docker and Vercel</span><br>
 <a href="https://www.figma.com/proto/s7PHMAP0qg31N2CRfLlnr6/Team-4?page-id=0%3A1&node-id=2144-2598&viewport=-11826%2C-3662%2C0.13&t=szbSBsfsJq10Dpdg-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2144%3A2598&show-proto-sidebar=1">Week 9</a><span> - Completed a week long design sprint and built a prototype in Figma to help with social workers with their note taking</span><br>
 <a href="https://github.com/SchoolOfCode/week-8-hackathon-i-am-immutable">Week 8</a><span> - Built a job application tracker using fetch to integrate an API and React to navigate between pages</span><br>

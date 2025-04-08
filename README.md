@@ -7,7 +7,7 @@
  <h2><strong>💻 Hackathons completed with the School of Code:</strong></h2>
 
 
-<a href="https://github.com/Kinukeo/final-project-chris-angels-1">Final Project</a><span> -A memory aid app to help individuals store cherished memories </span><br>
+<a href="https://github.com/graceoreilly/final-project">Final Project</a><span> -A memory aid app to help individuals store cherished memories </span><br>
 <a href="https://github.com/graceoreilly/week-12-hackathon-chris-angels-1">Week 12</a><span> -Created a chatbot using RAG and powered by Pinecone to provide contextually relevant responses in a chatbot </span><br>
 <a href="https://github.com/graceoreilly/blog-page">Week 11</a><span> -A blog page about typescript, created in typescript and React. </span><br>
 <a href="https://github.com/SchoolOfCode/week-10-hackathon-rhythm-coders">Week 10</a><span> - Adopted a DevOps mindset to create a Jukebox app, implemented tools including GitHub actions, Docker and Vercel</span><br>
